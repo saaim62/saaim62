@@ -53,9 +53,7 @@ Senior full-stack engineer and tech lead (building software since 2019), based i
 
 <div align="center">
 
-![Saim's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaim62&show_icons=true&title_color=d9a05b&icon_color=d9a05b&text_color=a8b3bc&bg_color=0d1117&border_color=30363d&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saaim62&layout=compact&title_color=d9a05b&text_color=a8b3bc&bg_color=0d1117&border_color=30363d&hide_border=true)
+![GitHub highlights](github-highlights.svg)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=saaim62&theme=dark&hide_border=true&ring=d9a05b&fire=d9a05b&currStreakLabel=d9a05b)
 
