@@ -1,10 +1,8 @@
 <div align="center">
 
-# Saim Asif
+![Saim Asif — Senior Full Stack Engineer](github-banner.svg)
 
-### Senior Full Stack Engineer · Technical Team Lead
-
-**Building AI-powered products — agent workflows, LLM pipelines, and the platforms behind them.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=D9A05B&center=true&width=880&height=50&lines=Senior+Full+Stack+Engineer;Technical+Team+Lead;Founder+of+DropRoute;AI+Products+%26+LLM+Pipelines;HIPAA+SaaS+for+70%2B+Organizations)](https://github.com/saaim62)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saimasif.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=d9a05b)](https://saimasif.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=d9a05b)](https://www.linkedin.com/in/senior-software-engineer2)
@@ -25,20 +23,13 @@ Senior full-stack engineer and tech lead (building software since 2019), based i
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=d9a05b)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=d9a05b)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=d9a05b)
-![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=d9a05b)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=d9a05b)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=d9a05b)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=d9a05b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=d9a05b)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=d9a05b)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=d9a05b)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=d9a05b)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=d9a05b)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=d9a05b)
-![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=d9a05b)
+<div align="center">
+
+[![My skills](https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,python,fastapi,postgres,kotlin,aws,docker,redis&perline=12)](https://skillicons.dev)
+
+[![More skills](https://skillicons.dev/icons?i=tailwind,git,githubactions,mongodb,mysql,graphql,firebase,jest&perline=8)](https://skillicons.dev)
+
+</div>
 
 ## Featured Work
 
