@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="172" viewBox="0 0 880 172">
+  <rect x="1" y="1" width="878" height="170" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="170" fill="#d9a05b"/>
+  <rect x="28" y="30" width="64" height="64" rx="10" fill="none" stroke="#d9a05b" stroke-width="1.5"/>
+  <text x="60" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#d9a05b">DR</text>
+  <text x="118" y="46" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff">DropRoute</text>
+  <text x="118" y="68" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#d9a05b">FOUNDER &amp; FULL-STACK ENGINEER</text>
+  <text x="118" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#a8b3bc">Turns WhatsApp supplier broadcasts into publish-ready Instagram &amp; Facebook posts —</text><text x="118" y="114" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#a8b3bc">capture, LLM extraction, logo masking, human review, one-click publishing.</text>
+  <rect x="118" y="128" width="103" height="24" rx="12" fill="none" stroke="#d9a05b" stroke-width="1"/>
+  <text x="170" y="144" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#e9c883">LIVE ON AWS</text>
+  <text x="856" y="144" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6e7b87">Next.js &#183; NestJS &#183; PostgreSQL &#183; BullMQ &#183; Groq &#183; Python/OpenCV</text>
+</svg>
