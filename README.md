@@ -1,6 +1,6 @@
 <div align="center">
 
-![Saim Asif — Senior Full Stack Engineer](github-banner.svg)
+![Saim Asif — Senior Full Stack Engineer](banner-v3.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=D9A05B&center=true&width=880&height=50&lines=Senior+Full+Stack+Engineer;Technical+Team+Lead;Founder+of+DropRoute;AI+Products+%26+LLM+Pipelines;HIPAA+SaaS+for+70%2B+Organizations)](https://github.com/saaim62)
 
@@ -10,16 +10,33 @@
 
 </div>
 
----
+![divider](divider.svg)
 
 ## About
 
-Senior full-stack engineer and tech lead (building software since 2019), based in Lahore, Pakistan — working remotely with US and EU teams.
+Senior full-stack engineer and technical team lead, building software since 2019. Based in Lahore, working remotely with US and EU teams. I design, build and operate production systems end-to-end — multi-tenant SaaS, AI pipelines and mobile apps — and I still write code every day.
 
-- Led three engineers to build and operate **Case Management Hub**, a HIPAA-compliant healthcare SaaS used by **70+ paying organizations** at 10,000+ sessions a day — architecture, CI/CD, production security.
-- Founder of **DropRoute**, a live SaaS that turns WhatsApp supplier broadcasts into publish-ready Instagram/Facebook posts — LLM extraction pipeline plus a Python computer-vision masking layer.
-- Shipped mobile at scale: **Seated** (40,000+ users, React Native → native Android rebuild at 99% crash-free) and **FORTNA** warehouse apps for Mr. Price, Carter's and Target (10,000+ scans/day).
-- Daily driver: agentic coding tools (Claude Code), MCP-based workflows, and Docker-everything on self-managed servers.
+**How I work:** security is a feature, not a phase · ship small, verify live · own the whole stack, from schema to server.
+
+![By the numbers](metrics.svg)
+
+## What I Do
+
+![What I do](whatido.svg)
+
+## Featured Work
+
+[![DropRoute](proj-droproute.svg)](https://droproute.duckdns.org)
+
+[![Case Management Hub](proj-cmh.svg)](https://app.casemanagementhub.org)
+
+[![FairTerms](proj-fairterms.svg)](https://github.com/saaim62/fairterms)
+
+![Mobile at scale — Seated and FORTNA](proj-mobile.svg)
+
+## System Spotlight
+
+![Inside DropRoute](architecture.svg)
 
 ## Tech Stack
 
@@ -31,15 +48,6 @@ Senior full-stack engineer and tech lead (building software since 2019), based i
 
 </div>
 
-## Featured Work
-
-| Project | What it is |
-|---|---|
-| **[DropRoute](https://droproute.duckdns.org)** | My own SaaS — WhatsApp broadcasts in, publish-ready social posts out. Groq LLM extraction, Python/OpenCV logo masking, BullMQ queues, Meta Graph API publishing. [Code](https://github.com/saaim62/whatsapp-social-bridge) |
-| **[Case Management Hub](https://app.casemanagementhub.org)** | HIPAA-compliant multi-tenant SaaS for US case-management agencies — led the team, owned architecture and production. 70+ organizations, Stripe billing, ePHI safeguards. |
-| **[FairTerms](https://github.com/saaim62/fairterms)** | Browser extension + FastAPI backend that analyses terms-of-service documents — rule-based detection plus an LLM pass, risk cards and clause highlighting. |
-| **[Portfolio](https://saimasif.vercel.app)** | Case studies, live demos and the full project record. |
-
 ## GitHub Stats
 
 <div align="center">
@@ -48,8 +56,8 @@ Senior full-stack engineer and tech lead (building software since 2019), based i
 
 ![GitHub streak](https://streak-stats.demolab.com?user=saaim62&theme=dark&hide_border=true&ring=d9a05b&fire=d9a05b&currStreakLabel=d9a05b)
 
+![Contribution snake](https://raw.githubusercontent.com/saaim62/saaim62/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
----
-
-<div align="center"><i>Open to senior full-stack and tech-lead roles — remote, worldwide.</i></div>
+[![Let's build](cta.svg)](https://saimasif.vercel.app)
